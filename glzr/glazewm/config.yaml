@@ -141,6 +141,7 @@ window_rules:
   - commands: ["set-floating"]
     match:
       - window_process: { equals: "osu!" }
+      - window_process: { equals: "cmd" }
 
 binding_modes:
   # When enabled, the focused window can be resized via arrow keys or HJKL.

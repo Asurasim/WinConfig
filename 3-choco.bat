@@ -18,7 +18,7 @@
  :run
  choco install mingw -y
  choco install python -y
- choco install rustup -y
+ choco install rust -y
  exit /b
 
  :UACPrompt

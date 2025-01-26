@@ -25,6 +25,7 @@
  winget install yarn.yarn
  winget install fzf
  winget install lazygit
+ winget install Microsoft.PowerToys
  exit /b
 
  :UACPrompt
