@@ -27,6 +27,7 @@
  winget install lazygit
  winget install Microsoft.PowerToys
  winget install yazi
+ winget install obsidian
  exit /b
 
  :UACPrompt
