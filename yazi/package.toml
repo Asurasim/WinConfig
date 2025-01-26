@@ -1,0 +1,5 @@
+[plugin]
+deps = [{ use = "dedukun/bookmarks", rev = "202e450" }, { use = "stelcodes/bunny", rev = "49bd059" }, { use = "h-hg/yamb", rev = "108347b" }]
+
+[flavor]
+deps = []

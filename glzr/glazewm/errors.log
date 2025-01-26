@@ -1,0 +1,4 @@
+[2m2025-01-22T20:25:10.670015Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 141 column 5, while parsing a block mapping at line 124 column 5
+[2m2025-01-22T20:25:46.327354Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 141 column 5, while parsing a block mapping at line 124 column 5
+[2m2025-01-22T20:26:58.582432Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 141 column 5, while parsing a block mapping at line 124 column 5
+[2m2025-01-22T20:53:58.940890Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'tacky-borders'.\n\nError: The operation was canceled by the user. (0x800704C7)"
