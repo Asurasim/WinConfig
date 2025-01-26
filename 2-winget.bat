@@ -26,6 +26,7 @@
  winget install fzf
  winget install lazygit
  winget install Microsoft.PowerToys
+ winget install yazi
  exit /b
 
  :UACPrompt
