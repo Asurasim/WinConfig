@@ -4,4 +4,5 @@
 
 local map = LazyVim.safe_keymap_set
 
-map("n", "<leader>i", "<cmd>cd $HOME\\Documents\\Notes<cr>", { desc = "Go to notes", remap = true })
+map("n", "<leader>ii", "<cmd>e $HOME\\Documents\\Notes\\Index.md<cr>", { desc = "Go to notes directory", remap = true })
+map("n", "<leader>ig", "<cmd>MarknavJump<cr>", { desc = "Enter markdown link", remap = true })

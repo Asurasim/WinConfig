@@ -227,12 +227,12 @@ keybindings:
     bindings: ["alt+m"]
 
   # Close focused window.
-  - commands: ["close"]
-    bindings: ["alt+shift+q"]
+  # - commands: ["close"]
+  #   bindings: ["alt+shift+q"]
 
   # Kill GlazeWM process safely.
-  - commands: ["wm-exit"]
-    bindings: ["alt+shift+e"]
+  # - commands: ["wm-exit"]
+  #   bindings: ["alt+shift+e"]
 
   # Re-evaluate configuration file.
   - commands: ["wm-reload-config"]
@@ -311,3 +311,6 @@ keybindings:
 
   - commands: ["shell-exec wezterm-gui"]
     bindings: ["alt+shift+q"]
+
+  - commands: ["shell-exec wezterm-gui start -- yazi"]
+    bindings: ["alt+shift+e"]
