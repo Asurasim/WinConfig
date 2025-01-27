@@ -6,9 +6,6 @@ return {
         nil_ls = {
           mason = false,
         },
-        prettier = {
-          mason = false,
-        },
       },
     },
   },
