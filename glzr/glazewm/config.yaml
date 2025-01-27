@@ -314,3 +314,9 @@ keybindings:
 
   - commands: ["shell-exec wezterm-gui start -- yazi"]
     bindings: ["alt+shift+e"]
+
+  - commands:
+      [
+        "shell-exec wezterm-gui start -- nvim %UserProfile%\\Documents\\Notes\\Index.md",
+      ]
+    bindings: ["alt+shift+n"]
